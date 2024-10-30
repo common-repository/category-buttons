@@ -1,0 +1,271 @@
+.cb-wrap input:not(input[type="checkbox"]),
+.cb-wrap textarea,
+#cb-button,
+#add-repeater-field {
+  padding: 0.375rem 0.75rem;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  min-width: 300px;
+}
+
+.cb-wrap input:hover,
+.cb-wrap input:focus,
+.cb-wrap textarea:hover,
+.cb-wrap textarea:focus,
+.cb-wrap select:hover,
+.cb-wrap select:focus,
+#add-repeater-field:hover,
+#add-repeater-field:focus {
+  background-color: #f9f9f9 !important;
+  border-color: #fed700 !important;
+  box-shadow: 0 0 0 1px #fed700;
+}
+
+.cb-wrap #cb-button:hover {
+  background-color: #f9f9f9 !important;
+  border-color: #fed700 !important;
+}
+
+.cb-wrap input[type="checkbox"] {
+  color: #495057 !important;
+  background-color: #fff !important;
+  background-clip: padding-box !important;
+  border: 1px solid #ced4da !important;
+  border-radius: 0.5rem !important;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
+}
+
+.cb-wrap input[type="checkbox"]:checked::before {
+  content: url('data:image/svg+xml,<%3Fxml version="1.0" encoding="UTF-8"%3F><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.39 9.32"><defs><style> .cls-1 { fill: %23fed700; stroke-width: 0px; } </style></defs><path class="cls-1" d="M9.05,0l1.34.94-5.81,8.38h-1.34L0,4.78l1.34-1.25,2.57,2.4L9.05,0Z"/></svg>');
+  margin: 2px 0 0 1px;
+  height: 0.7rem;
+  width: 0.7rem;
+}
+
+.cb-wrap select {
+  padding-top: 0.375rem !important;
+  padding-bottom: 0.375rem !important;
+  color: #495057 !important;
+  background-color: #fff !important;
+  background-clip: padding-box !important;
+  border: 1px solid #ced4da !important;
+  border-radius: 0.5rem !important;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
+  min-width: 300px;
+}
+
+.cb-wrap .nav-tab {
+  border: 1px solid #ced4da;
+  border-bottom: 0;
+  color: #495057;
+  border-radius: 0.5rem 0.5rem 0 0;
+  background: #ced4da;
+}
+
+.cb-wrap .nav-tab:hover {
+  background: #fff;
+}
+
+.cb-wrap .nav-tab-active {
+  background: #fff;
+}
+
+.cb-wrap .nav-tab-wrapper,
+.cb-wrap h2.nav-tab-wrapper,
+.cb-wrap h1.nav-tab-wrapper {
+  border: none;
+}
+
+.cb-wrap h1,
+.cb-wrap h2,
+.cb-wrap h3,
+.cb-wrap h4,
+.cb-wrap h5 {
+  margin: 0;
+}
+
+.cb-container {
+  padding: 10px 20px;
+  background: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+}
+
+.cb-wrap .cb-container .cb-support-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 500px;
+  margin-bottom: 1rem;
+}
+
+.cb-container table tr {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 1rem;
+}
+
+.cb-container table th,
+.cb-container table td {
+  padding: 0;
+}
+
+.image-select-wrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.image-select-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.image-select-item.selected,
+.image-select-item:hover {
+  border-color: #fed700;
+}
+
+.image-select-wrapper img {
+  width: 180px;
+  height: auto;
+}
+
+.exclude-categories-wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 15px;
+  grid-row-gap: 15px;
+  max-width: 800px;
+}
+
+.exclude-categories-wrapper label {
+  cursor: pointer;
+}
+
+.short-copy-wrapper {
+  display: flex;
+  gap: 10px;
+  margin-top: 0.5rem;
+}
+
+.short-copy-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.short-copy-item:hover {
+  border-color: #fed700;
+}
+
+.short-copy-wrapper img {
+  width: 180px;
+  height: auto;
+}
+
+#wp-cb_custom_description_field-wrap {
+  max-width: 850px;
+}
+
+#wp-cb_custom_description_field-wrap .wp-editor-tabs {
+  float: left;
+}
+
+#wp-cb_custom_description_field-wrap .wp-editor-container {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+#cb_custom_description_field-tmce,
+#cb_custom_description_field-html {
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+#repeater-field-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.repeater-field-item {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  gap: 15px;
+  border-bottom: 1px solid #ced4da;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.repeater-field-item-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.repeater-field-item-block > .image-wrapper {
+  position: relative;
+}
+
+.repeater-field-item-block > .image-wrapper > .cb-remove-image {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+button.button.remove-repeater-field,
+button.button.cb-upload-image, .cb-remove-image {
+  padding: 0.375rem 0.75rem;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.cb-remove-image {
+  color: #495057!important;
+  background-color: #fff!important;
+  background-clip: padding-box!important;
+  border: 1px solid #ced4da!important;
+  border-radius: 0.5rem!important;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out!important;
+}
+
+button.button.cb-upload-image:hover,
+button.button.cb-upload-image:focus {
+  background-color: #f9f9f9;
+  border-color: #fed700;
+  box-shadow: 0 0 0 1px #fed700;
+}
+
+.remove-repeater-field:hover,
+.remove-repeater-field:focus,
+.cb-remove-image:hover,
+.cb-remove-image:focus {
+  background-color: #f9f9f9;
+  border-color: red;
+  box-shadow: 0 0 0 1px red;
+}
+.cb-container table tr:has(input[name="cb_basic_settings[cb_hide_notice]"]), .cb-container table tr:has(input[name="cb_style_settings[cb_style_hide_notice]"]){
+  display: none;
+}

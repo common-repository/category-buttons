@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Buttons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-28 12:13+0000\n"
+"PO-Revision-Date: 2024-05-31 10:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Slovenčina\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.8\n"
+"X-Domain: category-buttons"
+
+#: includes/class-category-buttons.php:146
+msgid ""
+"<strong>The Category Buttons plugin has been reworked!</strong> We have "
+"added new functions, fixed errors and issues, and introduced a new <strong>"
+"Elementor widget</strong> along with a shortcode copy-paste generator. "
+"Please visit the plugin settings to set up the plugin. This notice will "
+"disappear after you save any settings in the plugin."
+msgstr ""
+"<strong>Doplnok Category Buttons bol prepracovaný!</strong> Pridali sme nové "
+"funkcie, opravili chyby a problémy a pridali nový <strong>Elementor "
+"widget</strong> spolu s generátorom kopírovania a vkladania krátkeho kódu. "
+"Navštívte nastavenia doplnku a nastavte doplnok. Toto upozornenie zmizne po "
+"uložení akýchkoľvek nastavení do doplnku."
+
+#. Description of the plugin
+#| msgid ""
+#| "A simple plugin that enables you to add custom category buttons to all "
+#| "product pages."
+msgid ""
+"A simple plugin that enables you to add custom category buttons to all shop "
+"pages and category pages."
+msgstr ""
+"Jednoduchý doplnok, ktorý vám umožňuje pridať tlačidlá vlastných kategórií "
+"na všetky stránky obchodu a kategórií."
+
+#: includes/class-category-buttons-admin.php:585
+msgid "Add custom buttons that will appear at the end of the loop"
+msgstr "Pridajte vlastné tlačidlá, ktoré sa zobrazia na konci slučky"
+
+#: includes/class-category-buttons-admin.php:579
+msgid "Add Field"
+msgstr "Pridať pole"
+
+#: includes/class-category-buttons-admin.php:250
+#: includes/elementor-widgets/widget.php:159
+#| msgid "Background color"
+msgid "Background Color"
+msgstr "Farba pozadia"
+
+#: includes/class-category-buttons-admin.php:258
+#: includes/elementor-widgets/widget.php:170
+msgid "Background Hover Color"
+msgstr "Farba hover pozadia "
+
+#: includes/class-category-buttons-admin.php:837
+#: includes/elementor-widgets/widget.php:53
+msgid "Basic Settings"
+msgstr "Základné nastavenia"
+
+#: includes/class-category-buttons-admin.php:298
+#: includes/elementor-widgets/widget.php:232
+#| msgid "Border color"
+msgid "Border Color"
+msgstr "Farba rámčeka"
+
+#: includes/class-category-buttons-admin.php:306
+#: includes/elementor-widgets/widget.php:243
+msgid "Border Hover Color"
+msgstr "Farba hover rámčeka"
+
+#: includes/class-category-buttons-admin.php:290
+#: includes/elementor-widgets/widget.php:213
+msgid "Border radius"
+msgstr "Polomer rámčeka"
+
+#: includes/class-category-buttons-admin.php:730
+#: includes/elementor-widgets/widget.php:204
+msgid "Border Settings"
+msgstr "Nastavenia rámčeka"
+
+#: includes/class-category-buttons-admin.php:338
+msgid "Buttons font size"
+msgstr "Veľkosť písma tlačidiel"
+
+#: includes/class-category-buttons-admin.php:527
+msgid ""
+"By adding a custom title or description, you'll overwrite the category "
+"content with your text written here. It is global and will overwrite all "
+"titles and descriptions if used in this plugin."
+msgstr ""
+"Pridaním vlastného nadpisu alebo popisu prepíšete obsah kategórie textom "
+"napísaným tu. Je globálny a ak sa použije v tomto doplnku, prepíše všetky "
+"názvy a popisy."
+
+#. page_title
+#. Name of the plugin
+#: includes/class-category-buttons-admin.php:42
+#: includes/class-category-buttons-admin.php:43
+#: includes/elementor-widgets/widget.php:16
+msgid "Category Buttons"
+msgstr "Tlačidlá kategórií"
+
+#: includes/class-category-buttons-admin.php:701
+msgid "Color Settings"
+msgstr "Nastavenia farieb"
+
+#: includes/class-category-buttons-admin.php:678
+#: includes/elementor-widgets/widget.php:114
+#: includes/elementor-widgets/widget.php:123
+msgid "Column Settings"
+msgstr "Nastavenia stĺpcov"
+
+#: includes/elementor-widgets/widget.php:132
+msgid "Columns"
+msgstr "Stĺpce"
+
+#: includes/class-category-buttons-admin.php:218
+msgid "Columns Desktop"
+msgstr "Stĺpce Počítač/Notebook"
+
+#: includes/class-category-buttons-admin.php:234
+msgid "Columns Mobile"
+msgstr "Stĺpce Mobil"
+
+#: includes/class-category-buttons-admin.php:226
+msgid "Columns Tablet"
+msgstr "Stĺpce Tablet"
+
+#: includes/class-category-buttons-admin.php:864
+msgid "Contact us using the form or contact information below"
+msgstr ""
+"Kontaktujte nás pomocou nižšie uvedeného formulára alebo kontaktných údajov"
+
+#: includes/class-category-buttons-admin.php:584
+msgid "Custom Buttons"
+msgstr "Vlastné tlačidlá"
+
+#: includes/class-category-buttons-admin.php:174
+msgid "Custom description"
+msgstr "Vlastný popis"
+
+#: includes/class-category-buttons-admin.php:792
+msgid "Custom Name:"
+msgstr "Vlastný názov:"
+
+#: includes/class-category-buttons-admin.php:526
+msgid "Custom Settings"
+msgstr "Vlastné nastavenia"
+
+#: includes/class-category-buttons-admin.php:166
+msgid "Custom title"
+msgstr "Vlastný nadpis"
+
+#: includes/class-category-buttons-admin.php:797
+msgid "Custom URL:"
+msgstr "Vlastná adresa URL:"
+
+#: includes/class-category-buttons-admin.php:330
+msgid "Description font size"
+msgstr "Veľkosť písma popisu"
+
+#: includes/elementor-widgets/widget.php:61
+msgid "Display Category"
+msgstr "Zobraziť kategóriu"
+
+#: includes/elementor-widgets/widget.php:98
+msgid "Display Images"
+msgstr "Zobraziť obrázky"
+
+#: includes/class-category-buttons-admin.php:150
+msgid "Display images"
+msgstr "Zobraziť obrázky"
+
+#: includes/class-category-buttons-admin.php:126
+msgid "Display in store"
+msgstr "Zobraziť v obchode"
+
+#: includes/elementor-widgets/widget.php:72
+msgid "Display Style"
+msgstr "Štýl zobrazenia"
+
+#: includes/class-category-buttons-admin.php:802
+msgid "Display under"
+msgstr "Zobraziť pod"
+
+#: includes/class-category-buttons-admin.php:871
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/elementor-widgets/widget.php:87
+msgid "Exclude Categories"
+msgstr "Vylúčiť kategórie"
+
+#: includes/class-category-buttons-admin.php:142
+msgid "Exclude categories"
+msgstr "Vylúčiť kategórie"
+
+#: includes/class-category-buttons-admin.php:753
+msgid "Font Settings"
+msgstr "Nastavenia písma"
+
+#: includes/class-category-buttons.php:147
+msgid "Go to Settings"
+msgstr "Choď do nastavení"
+
+#. Author URI of the plugin
+msgid "https://ryvenia.sk/"
+msgstr "https://ryvenia.sk/"
+
+#: includes/class-category-buttons-admin.php:882
+msgid ""
+"I agree with <a target=\"_blank\" href=\"https://ryvenia.sk/ochrana-osobnych-"
+"udajov\">privacy policy</a>"
+msgstr ""
+"Súhlasím s <a target=\"_blank\" href=\"https://ryvenia.sk/ochrana-osobnych-"
+"udajov\">zásadami ochrany osobných údajov</a>r"
+
+#: includes/class-category-buttons-admin.php:782
+#| msgid "Images"
+msgid "Image:"
+msgstr "Obrázky:"
+
+#: includes/class-category-buttons-admin.php:873
+msgid "Message:"
+msgstr "Správa:"
+
+#: includes/class-category-buttons-admin.php:869
+msgid "Name:"
+msgstr "Meno:"
+
+#: includes/elementor-widgets/widget.php:101
+msgid "No"
+msgstr "Nie"
+
+#: includes/class-category-buttons-admin.php:822
+msgid "Remove"
+msgstr "Odstrániť"
+
+#. Author of the plugin
+msgid "Ryvenia"
+msgstr "Ryvenia"
+
+#: includes/class-category-buttons-admin.php:642
+msgid "Select a category and click to copy the shortcode of the desired style"
+msgstr ""
+"Vyberte kategóriu a kliknutím skopírujte skrátený kód požadovaného štýlu"
+
+#: includes/class-category-buttons-admin.php:645
+#: includes/class-category-buttons-admin.php:804
+msgid "Select Category"
+msgstr "Vyberte kategóriu"
+
+#: includes/class-category-buttons-admin.php:892
+msgid "Send"
+msgstr "Odoslať"
+
+#: includes/class-category-buttons-admin.php:877
+msgid "Send WordPress system status"
+msgstr "Odoslať stav systému WordPress"
+
+#: includes/class-category-buttons-admin.php:592
+#: includes/class-category-buttons-admin.php:838
+msgid "Shortcode Settings"
+msgstr "Nastavenia krátkeho kódu"
+
+#: includes/class-category-buttons-admin.php:134
+msgid "Store display style"
+msgstr "Štýl zobrazenia v obchode"
+
+#: includes/class-category-buttons-admin.php:446
+msgid "Store Setting"
+msgstr "Nastavenie obchodu"
+
+#: includes/elementor-widgets/widget.php:151
+msgid "Style"
+msgstr "Štýl"
+
+#: includes/class-category-buttons-admin.php:839
+msgid "Style Settings"
+msgstr "Nastavenia štýlu"
+
+#: includes/class-category-buttons-admin.php:840
+msgid "Support"
+msgstr "Podpora"
+
+#: includes/class-category-buttons-admin.php:266
+#: includes/elementor-widgets/widget.php:181
+#| msgid "Text color"
+msgid "Text Color"
+msgstr "Farba textu"
+
+#: includes/class-category-buttons-admin.php:274
+#: includes/elementor-widgets/widget.php:192
+msgid "Text Hover Color"
+msgstr "Farba hover textu"
+
+#: includes/class-category-buttons-admin.php:859
+msgid ""
+"There was an error sending your message. Please ensure all fields are filled "
+"in."
+msgstr ""
+"Pri odosielaní vašej správy sa vyskytla chyba. Uistite sa, že sú vyplnené "
+"všetky polia."
+
+#: includes/class-category-buttons-admin.php:322
+msgid "Title font size"
+msgstr "Veľkosť písma nadpisu"
+
+#: includes/elementor-widgets/widget.php:255
+msgid "Title Typography"
+msgstr "Názov Typografia"
+
+#: includes/class-category-buttons-admin.php:784
+msgid "Upload Image"
+msgstr "Nahrať obrázok"
+
+#: includes/class-category-buttons-admin.php:641
+msgid "Use shortcode"
+msgstr "Použite skrátený kód"
+
+#: includes/elementor-widgets/widget.php:77
+msgid "With Description"
+msgstr "S popisom"
+
+#: includes/class-category-buttons-admin.php:473
+#: includes/class-category-buttons-admin.php:663
+msgid "With description"
+msgstr "S popisom"
+
+#: includes/elementor-widgets/widget.php:76
+msgid "With Title"
+msgstr "S názvom"
+
+#: includes/class-category-buttons-admin.php:469
+#: includes/class-category-buttons-admin.php:659
+msgid "With title"
+msgstr "S nadpisom"
+
+#: includes/elementor-widgets/widget.php:75
+msgid "With Title and Description"
+msgstr "S názvom a popisom"
+
+#: includes/class-category-buttons-admin.php:465
+#: includes/class-category-buttons-admin.php:655
+msgid "With title and description"
+msgstr "S nadpisom a popisom"
+
+#: includes/elementor-widgets/widget.php:78
+msgid "Without Title and Description"
+msgstr "Bez názvu a popisu"
+
+#: includes/class-category-buttons-admin.php:477
+#: includes/class-category-buttons-admin.php:667
+msgid "Without title and description"
+msgstr "Bez nadpisu a popisu"
+
+#: includes/class-category-buttons-admin.php:833
+msgid "Woocommerce Category Buttons"
+msgstr "Tlačidlá kategórie Woocommerce"
+
+#: includes/elementor-widgets/widget.php:100
+msgid "Yes"
+msgstr "Áno"
+
+#: includes/class-category-buttons-admin.php:641
+msgid ""
+"You can use it in any short code supported environment from Gutenberg, "
+"Elementor or other page builders."
+msgstr ""
+"Môžete ho použiť v akomkoľvek prostredí s podporou krátkeho kódu od "
+"Gutenberg, Elementor alebo iných nástrojov na tvorbu stránok."
+
+#: includes/class-category-buttons-admin.php:640
+#| msgid "You can use our Elementor widget with many style options etc."
+msgid "You can use our Elementor widget with many style options"
+msgstr "Náš widget Elementor môžete použiť s mnohými možnosťami štýlu"
+
+#: includes/class-category-buttons-admin.php:857
+msgid "Your message was sent successfully."
+msgstr "Vaša správa bola úspešne odoslaná."

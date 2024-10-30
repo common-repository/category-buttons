@@ -1,0 +1,362 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Buttons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-31 10:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: category-buttons"
+
+#: includes/class-category-buttons.php:146
+msgid ""
+"<strong>The Category Buttons plugin has been reworked!</strong> We have "
+"added new functions, fixed errors and issues, and introduced a new <strong>"
+"Elementor widget</strong> along with a shortcode copy-paste generator. "
+"Please visit the plugin settings to set up the plugin. This notice will "
+"disappear after you save any settings in the plugin."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple plugin that enables you to add custom category buttons to all shop "
+"pages and category pages."
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:585
+msgid "Add custom buttons that will appear at the end of the loop"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:579
+msgid "Add Field"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:250
+#: includes/elementor-widgets/widget.php:159
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:258
+#: includes/elementor-widgets/widget.php:170
+msgid "Background Hover Color"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:837
+#: includes/elementor-widgets/widget.php:53
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:298
+#: includes/elementor-widgets/widget.php:232
+msgid "Border Color"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:306
+#: includes/elementor-widgets/widget.php:243
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:290
+#: includes/elementor-widgets/widget.php:213
+msgid "Border radius"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:730
+#: includes/elementor-widgets/widget.php:204
+msgid "Border Settings"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:338
+msgid "Buttons font size"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:527
+msgid ""
+"By adding a custom title or description, you'll overwrite the category "
+"content with your text written here. It is global and will overwrite all "
+"titles and descriptions if used in this plugin."
+msgstr ""
+
+#. page_title
+#. Name of the plugin
+#: includes/class-category-buttons-admin.php:42
+#: includes/class-category-buttons-admin.php:43
+#: includes/elementor-widgets/widget.php:16
+msgid "Category Buttons"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:701
+msgid "Color Settings"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:678
+#: includes/elementor-widgets/widget.php:114
+#: includes/elementor-widgets/widget.php:123
+msgid "Column Settings"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:132
+msgid "Columns"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:218
+msgid "Columns Desktop"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:234
+msgid "Columns Mobile"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:226
+msgid "Columns Tablet"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:864
+msgid "Contact us using the form or contact information below"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:584
+msgid "Custom Buttons"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:174
+msgid "Custom description"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:792
+msgid "Custom Name:"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:526
+msgid "Custom Settings"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:166
+msgid "Custom title"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:797
+msgid "Custom URL:"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:330
+msgid "Description font size"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:61
+msgid "Display Category"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:98
+msgid "Display Images"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:150
+msgid "Display images"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:126
+msgid "Display in store"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:72
+msgid "Display Style"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:802
+msgid "Display under"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:871
+msgid "Email:"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:87
+msgid "Exclude Categories"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:142
+msgid "Exclude categories"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:753
+msgid "Font Settings"
+msgstr ""
+
+#: includes/class-category-buttons.php:147
+msgid "Go to Settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ryvenia.sk/"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:882
+msgid ""
+"I agree with <a target=\"_blank\" href=\"https://ryvenia.sk/ochrana-osobnych-"
+"udajov\">privacy policy</a>"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:782
+msgid "Image:"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:873
+msgid "Message:"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:869
+msgid "Name:"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:101
+msgid "No"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:822
+msgid "Remove"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ryvenia"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:642
+msgid "Select a category and click to copy the shortcode of the desired style"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:645
+#: includes/class-category-buttons-admin.php:804
+msgid "Select Category"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:892
+msgid "Send"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:877
+msgid "Send WordPress system status"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:592
+#: includes/class-category-buttons-admin.php:838
+msgid "Shortcode Settings"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:134
+msgid "Store display style"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:446
+msgid "Store Setting"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:151
+msgid "Style"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:839
+msgid "Style Settings"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:840
+msgid "Support"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:266
+#: includes/elementor-widgets/widget.php:181
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:274
+#: includes/elementor-widgets/widget.php:192
+msgid "Text Hover Color"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:859
+msgid ""
+"There was an error sending your message. Please ensure all fields are filled "
+"in."
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:322
+msgid "Title font size"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:255
+msgid "Title Typography"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:784
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:641
+msgid "Use shortcode"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:77
+msgid "With Description"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:473
+#: includes/class-category-buttons-admin.php:663
+msgid "With description"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:76
+msgid "With Title"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:469
+#: includes/class-category-buttons-admin.php:659
+msgid "With title"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:75
+msgid "With Title and Description"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:465
+#: includes/class-category-buttons-admin.php:655
+msgid "With title and description"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:78
+msgid "Without Title and Description"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:477
+#: includes/class-category-buttons-admin.php:667
+msgid "Without title and description"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:833
+msgid "Woocommerce Category Buttons"
+msgstr ""
+
+#: includes/elementor-widgets/widget.php:100
+msgid "Yes"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:641
+msgid ""
+"You can use it in any short code supported environment from Gutenberg, "
+"Elementor or other page builders."
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:640
+msgid "You can use our Elementor widget with many style options"
+msgstr ""
+
+#: includes/class-category-buttons-admin.php:857
+msgid "Your message was sent successfully."
+msgstr ""
